@@ -121,3 +121,70 @@ __Baseline demand__(基准需求)
 __Promotional demand__(促销需求)
 > Promotional Demand 指由于促销活动而额外产生的需求增量（Incremental Demand），不包含原本就会发生的基准需求。
 
+__Supply Chain Manufacturing__
+> process of managing and coordinating the production and distribution of goods within a supply chain network
+> Involves movement of raw materials and finished products
+
+__Manufacture Strategy__
+1. Lean(精益制造)
+> 消除一切浪费（Waste），在不增加成本的情况下最大化价值。
+> 常见的浪费：
+    过度生产
+    等待
+    运输
+    过度加工
+    库存
+    返工
+> __需求相对稳定 产品生命周期较长 以成本、效率为主要竞争力__
+> 👉 典型：汽车制造、电子装配、成熟消费品
+
+（扩展）未充分利用人才
+2. Agile
+> 快速响应变化的市场和客户需求。
+> 高柔性（Flexible）
+> 模块化设计
+> 快速换线 / 快速切换
+> 信息透明、响应快
+> __需求高度不确定__
+> __产品更新快__
+> __定制化程度高__
+> 👉 典型：时尚（ZARA）、高科技产品、定制装备
+
+强调速度和客户价值，而不是极致成本
+3. Just in Time
+> 在“需要的时间、需要的数量、生产需要的产品”。
+> 极低库存
+> 强依赖供应商
+> 小批量、高频次
+> 精确的生产与物流协同
+> __供应链非常稳定__
+> 交期可靠
+> 供应商距离近 / 协作深
+> 👉 典型：丰田体系
+
+__IOT(物联网)Internet of Things__
+> 通过传感器、网络和软件，把“物”连接到互联网，实现数据采集、传输、分析和自动决策的系统。
+
+__RPA(机器人流程自动化)Robotic Process Automation__
+> 用软件“机器人”来模拟人类在电脑上的操作，自动执行规则明确、重复性的业务流程
+
+__AI__
+> Predictive analysis, autonomous Systems
+
+__ERP System(Enterprise Resource Planning，企业资源计划系统)__
+> 把企业各个核心业务流程整合到一个统一系统中的管理平台，用于共享数据、协同流程和支持决策。
+> 客户下单 → ERP 自动联动：
+> Sales Order 创建
+> 库存检查
+> 不够 → MRP 生成采购/生产建议Material Requirements Planning，物料需求计划
+> 采购下 PO (Purchase Order，采购订单)
+> 收货 → 库存更新
+> 财务自动入账
+> 👉 一次输入，全系统联动
+
+__QMS(Quality Management System，质量管理体系)__
+> 一套用于确保产品和服务持续满足质量要求，并通过标准化流程实现持续改进的管理体系。
+> Quality planning
+> Quality assurance
+> Quality control
+> Continuous improvement
