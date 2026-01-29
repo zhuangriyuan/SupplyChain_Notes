@@ -188,3 +188,68 @@ __QMS(Quality Management System，质量管理体系)__
 > Quality assurance
 > Quality control
 > Continuous improvement
+
+__PSI Planning(Purchase, Sales Inventory)__ 生产、销售、库存的平衡计划
+> 用合适的生产，满足销售需求，同时把库存控制在合理水平
+> __Production（生产）__ 产能 物料可得性
+> __Sales（销售）__ Forecast（预测）Confirmed Orders（已确认订单）
+> __Inventory（库存）__ 成品库存（FG）在制品（WIP）
+
+__Supply Chain Finance（SCF，供应链金融）__
+> 买方：想延长付款周期
+> 供应商：想尽快回款
+> 银行：想要低风险、可控现金流
+> 👉 SCF 的作用：
+> 在不牺牲供应商现金流的前提下，改善买方营运资本，同时降低整体融资成本。
+> 1. __Accounts Payable Financing/Reverse Factoring（反向保理 / 买方保理）⭐最重要__
+> 流程：
+> 供应商发货 → 开票
+> 买方确认应付账款（AP）
+> 银行基于 买方信用 提前付款给供应商
+> 买方在账期到期时再付给银行
+> 2. __Accounts Receivable Financing(应收账款融资)__
+> 用“已经卖出去、但还没收钱的账款”来换现金
+> Factoring（保理）⭐
+> 企业把应收账款 卖给银行/保理公司
+> 银行立刻付 80–90%
+> 客户付款后再结清余额 − 手续费
+> 3. __Inventory Financing(库存融资)__
+> 用“还没卖出去的库存”做抵押来融资
+> Warehouse Financing
+> 银行控制第三方仓库
+> 出库需要银行放行
+
+__Cost Control__
+1. Incurred Cost(已发生成本)
+> Actual expenses
+2. Cost Constraints
+> Predetermined limits set to manage and control cost in the supply chain
+3. Fixed Cost(固定成本)
+4. Variable Cost(变动成本)
+5. Accruals(应计费用)
+> 收入或费用在“发生时”确认，而不是在“现金实际收付时”确认。
+> 货或服务已经“用掉 / 收到”，但发票还没来 → 要做 accrual
+> 货已经运完 Carrier 账单下个月才来 但这批货 已经用于当月销售 👉 运费属于当月成本
+
+__Transportation__
+1. Inbound Transportation(入站运输)
+> 供应商 → 公司
+> 物料、零部件、原材料从供应商 → 企业仓库 / 工厂 / 配送中心 这一段的运输活动。
+> 它发生在生产或销售之前，属于上游供应链（upstream supply chain）。
+> ___
+> 选择更便宜的运输模式（海运 vs 空运）
+> 通过集中采购运力获得更低运价
+2. Outbound Transportation(出站运输)
+> 公司 → 客户
+> 产品从企业 → 客户 / 经销商 / 零售商 / 最终消费者 这一段的运输活动。
+> 它发生在销售之后或销售履约过程中，属于下游供应链（downstream supply chain）。
+> ___
+> __Batch picking(批量拣货)__
+> 一次拣多个订单中“相同的 SKU”，而不是一个订单一个订单地拣。
+> 传统拣货（Discrete Picking）拣货员走 10 次到 A 的货位
+> Batch Picking  一次去 A 的货位拣 10 件A 再在分拣区按订单分配
+> __Cross-docking(越库 / 直通配送)__
+> 货物几乎不入库存，直接从 inbound → outbound 转运
+> 不存、不堆、快进快出
+> 供应商送来 100 箱商品 已提前分配到 10 家门店, DC(Distribution Center配送中心) 只负责拆分、贴标、转运
+> __路线优化（route optimization）__
