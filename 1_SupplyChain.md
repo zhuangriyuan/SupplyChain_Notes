@@ -253,3 +253,26 @@ __Transportation__
 > 不存、不堆、快进快出
 > 供应商送来 100 箱商品 已提前分配到 10 家门店, DC(Distribution Center配送中心) 只负责拆分、贴标、转运
 > __路线优化（route optimization）__
+
+__RFID__
+> RFID 是 Radio Frequency Identification（射频识别） 的缩写。
+> 仓库门口装 RFID Gate
+> 托盘一进门
+> 系统自动知道：是什么、多少、来自哪里、去了哪里
+
+__Secutiry Risks in Supply Chain__
+1. Natural disasters
+2. Theft and Pilferage 偷窃
+3. Counterfeit products 假冒产品
+4. Supply Chain disruptions
+5. Unauthorized Access
+6. Cyber Security Risks
+7. Regulatory non-compliance 监管不合规
+8. Transportation and logistics risks
+9. Supplier and vendor risks
+10. Information risks
+
+__DATA__
+1. Qualitative data 定性数据（主观）
+> 
+2. Quantitative data 定量数据 (可以计算)
