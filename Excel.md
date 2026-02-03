@@ -2,13 +2,15 @@
 
 ## 基础
 1. 双击可以fill整列
-2. Home tab中可以选数据类型 比如日期date
-3. Home tab中有 __Sort&Filter__ 可以给title加filter
-4. Page Layout tab中可以 __取消Gridlines__ ，如果需要在特定区域增加，可以在Home tab中font size下的田子格选择样式
-5. View tab中可以用Freeze Panes来 __冻结最上行__
-6. __ctrl+shift+⬇__  __ctrl+shift+➡__ 可以选择全部行列
-7. 右键sheet可以move or copy到别的workbook
-   
+2. Home tab中可以merge and center这样可以选中多个cell合并做标题
+3. Home tab中可以用clear来清除所有format
+4. Home tab中可以选数据类型 比如日期date
+5. Home tab中有 __Sort&Filter__ 可以给title加filter
+6. Page Layout tab中可以 __取消Gridlines__ ，如果需要在特定区域增加，可以在Home tab中font size下的田子格选择样式
+7. View tab中可以用Freeze Panes来 __冻结最上行__
+8. __ctrl+shift+⬇__  __ctrl+shift+➡__ 可以选择全部行列
+9. 右键sheet可以move or copy到别的workbook
+
 
 ## 公式
 Median - 中位数（把数据排好序，站在最中间的那个）
@@ -75,3 +77,15 @@ ___
 > "YD"	剩余天	去掉整年后的天
 24. __HOUR()__ __MINUTE()__ __SECOND()__ __TIME()__ 提取时间
 25. __TEXT()__ TEXT(value, format_text) HH:MM AM/PM
+
+
+__TABLE__
+> 可以把RANGE 转为 TABLE，之后再Table Designer中做slicer，这样图表也会跟着filter
+> Table 转回 RANGE需要在Table Design中选择Convert to Range
+
+__Conditional Formatting__
+> 在hometab中，可以根据cell来自定义rules和颜色
+
+__Data Tab中的Data Validation__
+> Youtube - Collaboration Chapter
+> 可以创建一个list，选data validation后选中创建的list，可以创建下拉菜单
