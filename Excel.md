@@ -2,14 +2,15 @@
 
 ## 基础
 1. 双击可以fill整列
-2. Home tab中可以merge and center这样可以选中多个cell合并做标题
-3. Home tab中可以用clear来清除所有format
-4. Home tab中可以选数据类型 比如日期date
-5. Home tab中有 __Sort&Filter__ 可以给title加filter
-6. Page Layout tab中可以 __取消Gridlines__ ，如果需要在特定区域增加，可以在Home tab中font size下的田子格选择样式
-7. View tab中可以用Freeze Panes来 __冻结最上行__
-8. __ctrl+shift+⬇__  __ctrl+shift+➡__ 可以选择全部行列
-9. 右键sheet可以move or copy到别的workbook
+2. Ctrl+Shift+U 可以 __放大输入function代码块__
+3. Home tab中可以merge and center这样可以选中多个cell合并做标题
+4. Home tab中可以用clear来清除所有format
+5. Home tab中可以选数据类型 比如日期date
+6. Home tab中有 __Sort&Filter__ 可以给title加filter
+7. Page Layout tab中可以 __取消Gridlines__ ，如果需要在特定区域增加，可以在Home tab中font size下的田子格选择样式
+8. View tab中可以用Freeze Panes来 __冻结最上行__
+9. __ctrl+shift+⬇__  __ctrl+shift+➡__ 可以选择全部行列
+10. 右键sheet可以move or copy到别的workbook
 
 
 ## 公式
@@ -89,3 +90,8 @@ __Conditional Formatting__
 __Data Tab中的Data Validation__
 > Youtube - Collaboration Chapter
 > 可以创建一个list，选data validation后选中创建的list，可以创建下拉菜单
+
+__Pivot Table__
+> 如果想要 __移除最底下的Grand Total__，需要在Design Tab中找到Grand Total并关闭
+> Pivot Table Analyze Tab中可以关掉 __Field Headers__
+> PivotChart中如果有 __多个表格的多个slicer__，相互需要 __filter建立connection__，可以在PivotChart Analyze中的Filter Connections中选择
