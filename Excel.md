@@ -91,7 +91,20 @@ __Data Tab中的Data Validation__
 > Youtube - Collaboration Chapter
 > 可以创建一个list，选data validation后选中创建的list，可以创建下拉菜单
 
-__Pivot Table__
+__Pivot Table__ (透视表)
 > 如果想要 __移除最底下的Grand Total__，需要在Design Tab中找到Grand Total并关闭
 > Pivot Table Analyze Tab中可以关掉 __Field Headers__
 > PivotChart中如果有 __多个表格的多个slicer__，相互需要 __filter建立connection__，可以在PivotChart Analyze中的Filter Connections中选择
+
+__Power Query__ (清理数据)
+__ETL__ Extract（抽取）→ Transform（转换）→ Load（加载）
+> Power Query在Data tab中
+> import后点击transform进入 __Power Query Editor__
+> __关闭后重新打开 - Data - Get Data - Lanuch Power Query Editor__
+> Append - 合并多张表 - 比如1-12月
+> Merge - 根据id可以left right full merge
+
+__Power Pivot__
+> Build table relationship, 一般来说可以用power query来清理数据，再将数据导入power pivot中创建data model和relationship（用existing coonnections 从 power query中导入data model时要在query中勾选选择load to然后勾选add this data to data model
+> 做好relationship后可以在 __home tab__ 中插入 __pivotable__
+> Power Pivot可以做 __measure__，选中表右键add measure，也可以在power pivot中选择new measure，这个计算出来的数据会aggregate
