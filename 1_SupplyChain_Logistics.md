@@ -1,6 +1,6 @@
 # Supply Chain Management
 
-### Module 1
+### Course1 Module 1
 ### Supply Chain Logistics
 
 __Motor Freight(汽车货运)__
