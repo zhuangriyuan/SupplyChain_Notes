@@ -30,6 +30,7 @@ __1. Pickup/Delivery__
 > 负责本地提货（Pickup）和本地派送（Delivery）
 > 直接面对客户（工厂、仓库、零售商）
 > 是货物运输的起点或终点
+
 __2. Cross Docks__
 > Freight is unloaded, sorted, and reloaded
 > Minimal or no storage
@@ -39,6 +40,7 @@ __2. Cross Docks__
 > 进行分拣、合并或拆分
 > 不入库或短暂停留
 > 直接装到另一辆卡车继续运输
+
 __3. Relay(接力转运站)__
 > Used for long-haul transportation
 > Drivers or tractors are swapped
@@ -57,12 +59,14 @@ __1. Truckload(整车运输)(TL)__
 > 不与其他客户拼货
 > 点对点直达（Origin → Destination）
 > 途中不分拣、不转运
+
 __2. Less-than-Truckload(LTL)(拼车运输)__
 > Less-than-Truckload (LTL) is a transportation mode where multiple shippers share the same truck, and freight is picked up, sorted at terminals, and delivered through a hub-and-spoke network.
 > 多个客户的货物拼在同一辆卡车
 > 每个客户货量不足一整车
 > 货物需要经过转运中心（terminals）
 > 通过 “提货 → 分拣 → 干线 → 再分拣 → 派送” 完成运输
+
 __3. Parcel(包裹运输)__
 > Parcel shipping refers to the transportation of small, individual packages handled through highly automated hub-and-spoke networks, typically delivered by integrated carriers.
 > 单件或少量包裹
