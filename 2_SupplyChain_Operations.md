@@ -79,3 +79,60 @@ __4. Elevate提升 the Constraint__
 __5. Repeat the Process__
 > 瓶颈会转移, 回到第 1 步，持续改善
 
+### Module 2
+__Lean Inventory(精益库存)__
+> Lean Inventory is an inventory management approach that aims to minimize inventory levels while still meeting customer demand, by eliminating waste and improving process efficiency.
+> 精益库存是一种库存管理方法，目标是在满足客户需求的前提下，将库存水平降到最低，通过消除浪费和提升流程效率来实现。
+
+__Economic Order Quantity (EOQ)经济订货批量__
+> Economic Order Quantity (EOQ) is a formula used to determine the optimal order quantity that minimizes the total inventory cost, which includes ordering costs and holding (carrying) costs.
+> 经济订货批量（EOQ）是一种用于确定最优订货数量的模型，目标是在订货成本和库存持有成本之间取得平衡，从而使总库存成本最低。
+
+__EOQ = $\sqrt{\frac{2DS}{H}}$__
+
+| Symbol | Meaning (EN)                   | 含义（中文）    |
+| ------ | ------------------------------ | --------- |
+| D      | Annual demand                  | 年需求量      |
+| S      | Ordering cost per order        | 每次订货成本    |
+| H      | Holding cost per unit per year | 单位年库存持有成本 |
+| EOQ    | Optimal order quantity         | 最优订货批量    |
+
+__Cost Logic 成本逻辑__
+> Ordering cost decreases as order size increases
+> Holding cost increases as order size increases
+> EOQ is the point where total cost is minimized
+> EOQ 越大 → 每次订得多 → 订货次数少，库存成本高
+> EOQ 越小 → 每次订得少 → 库存成本低，订货次数多，订货成本高
+> EOQ 是总成本最低的平衡点
+> ——————
+> 计算出来的值：
+> 一个 订货量（单位数量）
+> 举例：EOQ = 500 → 每次采购 500 件最经济
+
+举例：EOQ = 500 → 每次采购 500 件最经济
+
+EOQ balances ordering and holding costs to minimize total inventory cost under stable demand conditions.
+EOQ 用于在需求稳定的前提下，平衡订货成本和库存持有成本，从而实现总库存成本最小化。
+
+__Total Cost（总库存成本）__
+> EOQ 模型中的总成本（TC）是指某一订货批量下所有库存相关成本的总和，帮助管理者找到订货成本和持有成本之间的最优平衡。
+__Total Cost (TC)=Ordering Cost+Holding Cost__ 订货成本+库存持有成本
+> __Ordering Cost= D/Q × S__
+
+| Symbol | 含义                     |
+| ------ | ---------------------- |
+| D      | Annual demand（年需求量）    |
+| Q      | Order quantity（订货批量）   |
+| S      | Cost per order（每次订货成本） |
+
+> __Holding Cost=Q/2 ​× H__
+
+| Symbol | 含义                             |
+| ------ | ------------------------------ |
+| Q      | 订货批量                           |
+| H      | Holding cost per unit per year |
+
+Total Cost: $TC(Q) = \frac{D}{Q}S + \frac{Q}{2}H$
+
+### Module 3
+
