@@ -135,4 +135,29 @@ __Total Cost (TC)=Ordering Cost+Holding Cost__ 订货成本+库存持有成本
 Total Cost: $TC(Q) = \frac{D}{Q}S + \frac{Q}{2}H$
 
 ### Module 3
+__Six Sigma__
+> Six Sigma is a data-driven methodology for process improvement and quality management, aiming to reduce variation and defects and improve process stability and predictability.
+> Six Sigma 是一种以数据和统计方法为基础的流程改进与质量管理方法，目标是减少流程变异和缺陷，提升流程稳定性和可预测性。
+
+__5 Measures__
+__DMAIC__
+1. Define（定义） / Define
+> 明确问题、客户需求（CTQ）、项目范围
+> Define the problem, customer requirements (CTQs), and project scope
+
+2. Measure（测量） / Measure
+> 收集数据，建立当前流程基线
+> Collect data and establish the current baseline
+
+3. Analyze（分析） / Analyze
+> 找出问题的根本原因
+> Identify root causes of defects or variation
+
+4. Improve（改进） / Improve
+> 设计并实施解决方案
+> Develop and implement solutions
+
+5. Control（控制） / Control
+> 维持成果，防止问题反弹
+> Sustain improvements and prevent regression
 
