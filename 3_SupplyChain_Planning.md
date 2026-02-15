@@ -69,3 +69,14 @@ __Exponential Smoothing(指数平滑法)__
 
 __MRP System(Material Requirements Planning)物料需求规划系统__
 > It breaks down the final product into its subcomponents, the value of materials, and then we get to manage each raw material or input by ensuring adequate足够的 inventory is available when it goes into production
+> MRP（物料需求计划）**是一种基于需求驱动的计算系统，用来回答三个核心问题：
+> 需要什么物料？
+> 需要多少？
+> 什么时候需要？
+
+__DRP Distribution Requirements Planning分销需求计划__
+> DRP解决的问题
+> 在多级仓储网络中：
+> 各区域仓库需要多少库存？
+> 什么时候补货？
+> 总仓什么时候发货？
