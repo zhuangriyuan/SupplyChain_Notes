@@ -73,6 +73,7 @@ __MRP System(Material Requirements Planning)物料需求规划系统__
 > 需要什么物料？
 > 需要多少？
 > 什么时候需要？
+> For production planning
 
 __DRP Distribution Requirements Planning分销需求计划__
 > DRP解决的问题
