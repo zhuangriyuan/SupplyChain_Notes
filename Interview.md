@@ -24,7 +24,22 @@ ___
 
 ### Case Study/Technical Questions
 
-##### How would you handle the worst possible supplier person and push him towards our schedule goals ?
+##### How would you handle the worst possible supplier person and push him towards our schedule goals ?（如果你遇到一个非常难合作的供应商联系人，你会如何处理，并推动他配合公司的交付进度目标？）
+> If I’m dealing with a very difficult supplier contact, I don’t start by trying to  > “fix the person.” I focus on controlling the system around them.
+> First, I would clarify whether the issue is __behavioral or structural__.
+> Sometimes what looks like a “bad attitude” is actually caused by unclear forecasts, unrealistic lead times, or conflicting priorities on their side. So I’d align on  
+> three basics: __demand visibility需求可见性, committed lead time承诺的交货时间, and order priority__.
+> Once that baseline is clear, I shift from informal communication to a more         structured operating rhythm. For example, I would:
+> Set up a __regular cadence节奏 (weekly check-ins with a clear agenda议程)__
+> Track commit vs. actual delivery performance
+> Document every agreement in writing to avoid ambiguity歧义
+> If the person is still uncooperative, I make performance more transparent and less  personal. I would introduce simple metrics like __on-time delivery rate or backlog   status积压状态__, and review them consistently. This reframes the conversation from “you’re difficult” to “we’re missing targets.”
+> At that point, I also make sure there is organizational alignment on both sides. If needed, I escalate—not as a complaint, but as a business alignment discussion. I involve stakeholders like procurement or supplier management to reinforce加强       expectations and consequences.
+> At the same time, I always build a risk buffer:
+> Identify alternative suppliers or partial dual sourcing
+> Adjust safety stock if the supplier is critical but unstable
+> Prioritize orders internally based on impact
+> Finally, I’ve found that even difficult people respond better when they feel       respected and not cornered. So I stay very direct, but also professional and       predictable. Over time, consistency usually improves cooperation—even if the relationship never becomes “good.”
 
 ##### How would you handle rapid change in the environment?
 
