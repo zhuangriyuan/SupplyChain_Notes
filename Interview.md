@@ -44,7 +44,15 @@ ___
 ##### How would you handle rapid change in the environment?
 
 ##### You’re experience late deliveries and long lead times with a sole source supplier that you can only get a part from how would you combat/mitigate that?
-> A textbook would say to increase safety stock. However a manager is not going to like that answer. I’d want to hear. “I would contact the supplier and show them the issues we are having. Is there something we aren’t understanding about the supplier and their capacity and ability? Then we can work together to solve the issue”. I.e. maybe we’re placing an order right at the beginning of a national holiday (like Chinese New Year), they’d likely have a late order in that case. But it would be our fault to in not understanding supplier issues.”
+> If I’m dealing with a sole-source supplier that has late deliveries and long lead times, I would approach it from three layers: stabilize, improve, and __hedge(对冲) risk__. First, I would stabilize the situation. Before trying to fix anything, I need predictability. I would work with the supplier to break down their lead time into components—__processing time, queue time, and transit time__—to understand where the delays actually come from. At the same time, I’d increase short-term visibility by implementing a tighter communication cadence and tracking order status more granularly.
+> Second, I would focus on improving execution with the current supplier. Since switching is not an option in the short term, I would try to influence their behavior. That could include:
+> __Sharing a more stable demand forecast to reduce variability on their side. Negotiating realistic but firm committed lead times. Introducing simple performance tracking like on-time delivery and reviewing it regularly__
+> If needed, I would also explore whether small operational changes—like order batching, earlier release of POs, or partial shipments—can reduce delays.
+> Third, I would hedge the risk on our side. Because the supplier risk won’t disappear quickly, I would protect operations by:
+> __Increasing safety stock for critical components, based on variability rather than average demand
+> Prioritizing allocation internally if supply is constrained
+> Evaluating long-term options like qualifying a secondary supplier, redesigning the part, or working with engineering to reduce dependency__
+> Finally, I would make sure this is visible internally as a managed risk, not just a supplier issue. That way, planning, procurement, and operations are aligned on trade-offs between inventory, cost, and service level.
 
 ##### Explain a time you had to deal with a difficult person.
 
