@@ -42,6 +42,11 @@ ___
 > Finally, I’ve found that even difficult people respond better when they feel respected and not cornered. So I stay very direct, but also professional and predictable. Over time, consistency usually improves cooperation—even if the relationship never becomes “good.”
 
 ##### How would you handle rapid change in the environment?
+> When the environment is changing rapidly, I focus on making the system more responsive rather than just reacting faster.
+> First, I shorten the planning and feedback cycle. Instead of relying on long planning horizons, I increase the frequency of check-ins and adjust decisions based on the most recent data. That helps avoid overcommitting to outdated assumptions.
+> Second, I’m willing to trade some efficiency for flexibility. __In volatile易变的 conditions__, I may accept higher inventory levels, flexible capacity, or expedited logistics to maintain service levels. The key is making those trade-offs consciously.
+> Third, I prioritize and segment. Not every product or supplier needs the same level of attention, so I focus on high-impact or high-risk areas and manage them more tightly, while keeping a lighter approach elsewhere.
+> Finally, I make sure assumptions are continuously updated and clearly communicated across teams, so everyone is aligned even as conditions change.
 
 ##### You’re experience late deliveries and long lead times with a sole source supplier that you can only get a part from how would you combat/mitigate that?
 > If I’m dealing with a sole-source supplier that has late deliveries and long lead times, I would approach it from three layers: stabilize, improve, and __hedge(对冲) risk__. First, I would stabilize the situation. Before trying to fix anything, I need predictability. I would work with the supplier to break down their lead time into components—__processing time, queue time, and transit time__—to understand where the delays actually come from. At the same time, I’d increase short-term visibility by implementing a tighter communication cadence and tracking order status more granularly.
