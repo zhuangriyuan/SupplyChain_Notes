@@ -42,11 +42,11 @@ ___
 > Finally, I’ve found that even difficult people respond better when they feel respected and not cornered. So I stay very direct, but also professional and predictable. Over time, consistency usually improves cooperation—even if the relationship never becomes “good.”
 
 ##### How would you handle rapid change in the environment?
-> When the environment is changing rapidly, I focus on making the system more responsive rather than just reacting faster.
-> First, I shorten the planning and feedback cycle. Instead of relying on long planning horizons, I increase the frequency of check-ins and adjust decisions based on the most recent data. That helps avoid overcommitting to outdated assumptions.
-> Second, I’m willing to trade some efficiency for flexibility. __In volatile易变的 conditions__, I may accept higher inventory levels, flexible capacity, or expedited logistics to maintain service levels. The key is making those trade-offs consciously.
-> Third, I prioritize and segment. Not every product or supplier needs the same level of attention, so I focus on high-impact or high-risk areas and manage them more tightly, while keeping a lighter approach elsewhere.
-> Finally, I make sure assumptions are continuously updated and clearly communicated across teams, so everyone is aligned even as conditions change.
+> When things are changing really fast, I try not to over-plan. I focus more on staying flexible and adjusting quickly.
+> First, I shorten the planning cycle. Instead of planning too far ahead, I check things more often and adjust based on the latest information, so we’re not working off outdated assumptions.
+> Second, I’m okay with trading some efficiency for flexibility. For example, I might hold a bit more inventory or use faster shipping if needed, just to keep things running smoothly. Holding more inventory gives us a buffer—it helps absorb delays or sudden changes in demand, so we’re not constantly reacting to problems.
+> Third, I focus on what matters most. Not everything needs the same level of attention, so I prioritize the most critical items first. For example, if supply is tight, I’d make sure key products or customer orders are covered first, instead of trying to treat everything equally—like spreading limited inventory across all SKUs and still ending up with stockouts on the most important ones.
+> Finally, I make sure the team stays aligned. When things change quickly, clear communication is really important so everyone understands the priorities and next steps.
 
 ##### You’re experience late deliveries and long lead times with a sole source supplier that you can only get a part from how would you combat/mitigate that?
 > If I’m dealing with a sole-source supplier that has late deliveries and long lead times, I would approach it from three layers: stabilize, improve, and __hedge(对冲) risk__. First, I would stabilize the situation. Before trying to fix anything, I need predictability. I would work with the supplier to break down their lead time into components—__processing time, queue time, and transit time__—to understand where the delays actually come from. At the same time, I’d increase short-term visibility by implementing a tighter communication cadence and tracking order status more granularly.
@@ -75,8 +75,18 @@ ___
 > Third, I make expectations and ownership very clear. In a distributed team, ambiguity causes more delays than time zones themselves. So I ensure that deliverables, deadlines, and responsibilities are explicitly defined.
 > Finally, I adapt communication style to the situation. For urgent issues, I escalate quickly and use direct channels. For non-urgent work, I rely on structured updates so the team can operate smoothly across time zones.
 ##### how do you prioritize?
+> When I prioritize, I usually look at two main things: impact and urgency.
+> First, I focus on impact—what has the biggest effect on the business. That could be revenue, customer commitments, or production continuity. For example, orders tied to key customers or critical products would always come first.
+> Second, I look at urgency—what needs immediate action to avoid bigger problems later. Sometimes a smaller issue can become a bigger disruption if it’s not handled quickly.
+> I also consider constraints, like limited inventory or capacity. When resources are tight, I make sure they’re allocated where they create the most value, instead of spreading them too thin
+> And finally, I try to keep it simple and visible. I make priorities clear to the team so everyone is aligned and we’re not working against each other.
 
 ##### How do I handle dealing with multiple stakeholders?
+> When I deal with multiple stakeholders, my main focus is to make sure everyone is aligned on the same priorities and trade-offs.
+> First, I try to understand each stakeholder’s goal. Different teams usually care about different things—for example, planning might focus on efficiency, sales might care about customer commitments, and operations might care about capacity. I need to understand these differences before trying to align them.
+> Second, I bring everyone back to the same set of facts. I usually rely on data like demand, capacity, or constraints, so the discussion is based on reality instead of opinions. This helps reduce conflicts caused by different perspectives.
+> Third, I clearly communicate priorities and decisions. If there are trade-offs, I make them explicit so people understand what we are optimizing for and what we are not doing.
+> Finally, I keep communication consistent and simple. Instead of having fragmented conversations with different teams, I try to keep everyone updated so there are no surprises.
 
 ##### How do you conduct demand forecasting?
 
