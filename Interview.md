@@ -60,9 +60,20 @@ ___
 > Finally, I would make sure this is visible internally as a managed risk, not just a supplier issue. That way, planning, procurement, and operations are aligned on trade-offs between inventory, cost, and service level.
 
 ##### Explain a time you had to deal with a difficult person.
+> On a previous VFX project, I worked with an artist who had a very different approach to shot execution. He preferred to push for high visual complexity early on, while I was more focused on blocking and getting approvals first. This started to slow down our iteration process.
+> Task:
+> My goal was to keep the shot progressing efficiently while maintaining a collaborative working relationship.
+> Action:
+> I initiated a conversation to understand his perspective, and he was aiming to reduce the number of later revisions by polishing early. I acknowledged that, but suggested we align on a workflow: we first lock the overall motion and timing with simpler setups, get quick approvals, and then layer in detail. I also proposed more frequent check-ins so we could catch issues earlier without overcommitting time.
+> Result:
+> This helped us speed up approvals and reduced rework significantly. We ended up delivering the shot on time, and our collaboration improved because we had a clearer shared process.
 
 ##### How would you go about working with folks on an international team that may not work in the same time zone as you?
-
+> When working with international teams across different time zones, I focus on reducing dependency on real-time communication and making collaboration more structured.
+> First, I make communication more __asynchronous(异步)__. Instead of relying on meetings, I ensure that updates, decisions, and action items are clearly documented. That way, people can move work forward without waiting for someone to come online.
+> Second, I try to create a small overlap window when needed. Even a one-hour overlap can be very effective if it’s used for high-impact discussions or resolving blockers, rather than routine updates.
+> Third, I make expectations and ownership very clear. In a distributed team, ambiguity causes more delays than time zones themselves. So I ensure that deliverables, deadlines, and responsibilities are explicitly defined.
+> Finally, I adapt communication style to the situation. For urgent issues, I escalate quickly and use direct channels. For non-urgent work, I rely on structured updates so the team can operate smoothly across time zones.
 ##### how do you prioritize?
 
 ##### How do I handle dealing with multiple stakeholders?
