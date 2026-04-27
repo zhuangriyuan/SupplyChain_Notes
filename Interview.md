@@ -81,20 +81,23 @@ ___
 > I also consider constraints, like limited inventory or capacity. When resources are tight, I make sure they’re allocated where they create the most value, instead of spreading them too thin
 > And finally, I try to keep it simple and visible. I make priorities clear to the team so everyone is aligned and we’re not working against each other.
 
-##### How do I handle dealing with multiple stakeholders?
-> When I deal with multiple stakeholders, my main focus is to make sure everyone is aligned on the same priorities and trade-offs.
-> First, I try to understand each stakeholder’s goal. Different teams usually care about different things—for example, planning might focus on efficiency, sales might care about customer commitments, and operations might care about capacity. I need to understand these differences before trying to align them.
-> Second, I bring everyone back to the same set of facts. I usually rely on data like demand, capacity, or constraints, so the discussion is based on reality instead of opinions. This helps reduce conflicts caused by different perspectives.
-> Third, I clearly communicate priorities and decisions. If there are trade-offs, I make them explicit so people understand what we are optimizing for and what we are not doing.
-> Finally, I keep communication consistent and simple. Instead of having fragmented conversations with different teams, I try to keep everyone updated so there are no surprises.
-
 ##### How do you conduct demand forecasting?
+> When I do demand forecasting, I see it as a mix of data and business input, not just a statistical exercise.
+> First, I start with historical data to build a baseline. I look at trends, seasonality, and any patterns in past demand. But I don’t rely on it blindly, especially if the environment is changing.
+> Second, I layer in business context. I talk to stakeholders like sales or marketing to understand things like promotions, new product launches, or any changes that wouldn’t show up in historical data.
+> Third, I segment the forecast. Not all products behave the same, so I might use a more detailed approach for high-impact or volatile items, and a simpler approach for stable ones.
+> Then, I continuously monitor and adjust. Forecasts are never perfect, so I track forecast accuracy and update assumptions regularly instead of waiting for long cycles.
+> At the end, my goal is not just accuracy, but making sure the forecast is actionable and aligned with the rest of the supply chain.
 
 ##### If the company wants to reduce transportation costs, what measures would you take?
+> If the goal is to reduce transportation costs, I’d start by understanding what’s really driving the cost, and then look for improvements without hurting service levels too much.
+> First, I’d look at shipment consolidation. If we’re sending a lot of small shipments, combining them into fewer, fuller loads can significantly reduce cost per unit.
+> Second, I’d review transportation modes. For example, if we’re using air freight for non-urgent shipments, we might be able to shift some volume to ocean or ground to save cost.
+> Third, I’d look at planning and timing. Better demand planning and earlier order releases can reduce the need for expedited(加急的) shipments, which are usually very expensive.
+> I’d also check routing and carrier options. Sometimes optimizing routes or renegotiating with carriers can bring cost savings without major operational changes.
+> Finally, I’d always balance cost with service. Some shipments may still need to be expedited if they’re critical, so the goal is not to cut cost everywhere, but to spend transportation cost where it actually matters.
 
 ##### What would you do if a certain raw material suddenly becomes unavailable?
-
-##### How would you handle a supplier delaying shipment?
 
 ##### How do you forecast demand for a new product?
 
