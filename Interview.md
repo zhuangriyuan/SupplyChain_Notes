@@ -98,7 +98,24 @@ ___
 > Finally, I’d always balance cost with service. Some shipments may still need to be expedited if they’re critical, so the goal is not to cut cost everywhere, but to spend transportation cost where it actually matters.
 
 ##### What would you do if a certain raw material suddenly becomes unavailable?
+> If a critical raw material suddenly becomes unavailable, my first priority is to understand the impact and stabilize the situation.
+> First, I’d assess how much inventory we have and how long it can support production or customer demand. At the same time, I’d identify which products or orders are affected, so we know where the risk is.
+> Second, I’d prioritize and allocate what we have. If supply is limited, I’d make sure critical products or key customer orders are covered first, instead of spreading the material too thin and risking broader disruption.
+> Third, I’d work on short-term alternatives. That could include checking if there are substitute materials, alternative suppliers, or even partial shipments that can keep operations running.
+> At the same time, I’d communicate early with stakeholders—planning, operations, and customers if needed—so expectations are clear and we can align on trade-offs.
+> Finally, I’d look at longer-term solutions, like qualifying backup suppliers, increasing safety stock for critical materials, or working with engineering to reduce dependency on a single source.
 
 ##### How do you forecast demand for a new product?
+> When forecasting demand for a new product, I don’t rely on a single method, since there’s no historical data. I usually combine a few different approaches to build a reasonable estimate.
+> First, I look for similar or comparable products. If there’s a product with a similar customer segment, price point, or use case, I use its historical data as a reference point.
+> Second, I work closely with business teams like sales and marketing. They often have insights on expected demand based on promotions, customer feedback, or market trends, which helps refine the estimate.
+> Third, I usually start with a conservative(保守的) assumption and build flexibility into the plan. Since uncertainty is high, I’d rather avoid overcommitting(过度投入) and then adjust as real data comes in.
+> Once the product launches, I closely monitor actual demand and quickly update the forecast. For new products, the first few weeks of data are very valuable, so the focus is really on learning and adapting fast.
 
 ##### How do you determine the safety stock level?
+> When determining safety stock, I usually think of it as balancing service level and risk, rather than just calculating a number.
+> First, I look at demand variability. If demand is very unpredictable, we generally need more safety stock to absorb those fluctuations.
+> Second, I consider lead time and its variability. If the supplier lead time is long or inconsistent, that increases the risk of stockouts, so I would hold more buffer.
+> Third, I look at the importance of the item. For critical products or materials—like those tied to key customers or production lines—I’d maintain a higher service level and therefore higher safety stock. For less critical items, I’d keep it leaner.
+> I also factor in practical constraints like storage cost and working capital, so we’re not overstocking unnecessarily.
+> If needed, I can use standard calculations based on demand and lead time variability, but I see those as a starting point. In practice, I usually adjust based on real business conditions.
