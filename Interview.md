@@ -4,10 +4,16 @@
 ##### Tell me about yourself
 
 ##### Why did you switch careers and What made you decide on a career in supply chain
+> It wasn’t really a sudden switch. It was more of a gradual change over time.
+> In my previous work, I found I was more interested in the coordination side of things—working across different teams, solving practical issues, and figuring out how to make things actually work in real life, not just on paper.
+> That’s what led me toward supply chain. It sits right in the middle of a lot of moving parts—demand, supply, logistics—and things are always changing, so you’re constantly problem-solving.
+> What I also like about it is that the impact is very tangible. You can see directly how your decisions affect cost, service level, or whether something gets delivered on time.
+> So it just felt like a natural fit for the kind of work I enjoy doing.
 
-##### What are some challenges that you've faced in your field during the past year?
-
-##### 3 strengths and 3 weaknesses
+##### strengths and weaknesses
+> One of my strengths is that I’m very structured in how I approach problems. I like breaking things down, understanding the root cause, and then building a clear plan instead of just reacting. I think this helps a lot in supply chain, where there are usually multiple moving parts.
+> Another strength is that I stay calm under pressure. When things change quickly or issues come up, I focus on what needs to be done first rather than getting overwhelmed.
+> As for weaknesses, I sometimes tend to spend too much time trying to fully understand a problem before making a decision. I’ve realized that in a fast-paced environment, you don’t always have perfect information, so I’ve been working on making faster decisions with “good enough” data, and adjusting later if needed.
 
 ##### why do you want to work for this company?
 
