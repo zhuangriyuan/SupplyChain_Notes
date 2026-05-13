@@ -2,6 +2,10 @@
 
 ### General Questions
 ##### Tell me about yourself
+> Sure. So my background is a bit non-traditional for supply chain. I studied Digital Media at York University, and later did a VFX program at Seneca Polytechnic. After that, I worked in the VFX industry for about three years.
+> What I realized during that experience was that I really enjoyed the operational and coordination side of the work. VFX projects involve a lot of moving parts—tight deadlines, changing priorities, cross-functional collaboration, and managing dependencies between teams—so I naturally became interested in workflow, planning, and problem-solving under pressure.
+> Over time, I found myself more drawn to structured operational work and making processes run smoothly, which is what led me toward supply chain. I like that supply chain is also very dynamic and requires balancing priorities, adapting quickly, and coordinating across different functions to keep things moving.
+> Right now, I’m looking for an opportunity where I can apply the skills I’ve built—like coordination, organization, and handling fast-changing environments—while continuing to grow in supply chain and operations.
 
 ##### Why did you switch careers and What made you decide on a career in supply chain
 > It wasn’t really a sudden switch. It was more of a gradual change over time.
@@ -16,9 +20,16 @@
 > As for weaknesses, I sometimes tend to spend too much time trying to fully understand a problem before making a decision. I’ve realized that in a fast-paced environment, you don’t always have perfect information, so I’ve been working on making faster decisions with “good enough” data, and adjusting later if needed.
 
 ##### why do you want to work for this company?
+> What interests me about this company is that it seems to operate in a fast-paced and complex environment, which is the kind of setting I enjoy working in.
+> From what I’ve seen, the company really values operational efficiency, collaboration, and continuous improvement, and that’s something I’m personally drawn to. I like work where there are real challenges to solve and where supply chain can have a direct impact on the business.
+> I also feel this role would give me the chance to learn a lot and work with different teams, which is something I’m looking for long term.
+> So for me, it’s not just about the company name—it’s more about the type of work, the environment, and the opportunity to grow in this field.
 
 ##### What are your long term career goals?
-
+> Long term, I want to continue growing in supply chain and build a strong understanding across different parts of the operation, not just one area.
+> Right now, I’m focused on developing solid experience in planning, coordination, and problem-solving in a real business environment. Over time, I’d like to take on more responsibility, work on larger operational challenges, and eventually move into a role where I can help improve processes and support bigger business decisions.
+> I’m also interested in becoming someone who can connect different teams and help drive alignment across operations, planning, and supply chain.
+> So overall, my goal is really to keep building both the operational and strategic side of my experience over time.
 
 ##### Questions to ask 
 
