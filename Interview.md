@@ -92,11 +92,9 @@ ___
 > Third, I make expectations and ownership very clear. In a distributed team, ambiguity causes more delays than time zones themselves. So I ensure that deliverables, deadlines, and responsibilities are explicitly defined.
 > Finally, I adapt communication style to the situation. For urgent issues, I escalate quickly and use direct channels. For non-urgent work, I rely on structured updates so the team can operate smoothly across time zones.
 ##### how do you prioritize?
-> When I prioritize, I usually look at two main things: impact and urgency.
-> First, I focus on impact—what has the biggest effect on the business. That could be revenue, customer commitments, or production continuity. For example, orders tied to key customers or critical products would always come first.
-> Second, I look at urgency—what needs immediate action to avoid bigger problems later. Sometimes a smaller issue can become a bigger disruption if it’s not handled quickly.
-> I also consider constraints, like limited inventory or capacity. When resources are tight, I make sure they’re allocated where they create the most value, instead of spreading them too thin
-> And finally, I try to keep it simple and visible. I make priorities clear to the team so everyone is aligned and we’re not working against each other.
+> I prioritize my tasks by focusing on impact and alignment with business goals
+> First, I list out all my deliverables and categorize them by urgency and重要性. My top priority always goes to tasks that are both urgent and have a high impact on the team or clients.
+> For example, in my last role, if I had a routine report due but a major client's system suddenly went down, I would immediately pivot to resolve the client's issue because of its higher impact, while proactively communicating with my manager to re-adjust the report's timeline.
 
 ##### How do you conduct demand forecasting?
 > When I do demand forecasting, I see it as a mix of data and business input, not just a statistical exercise.
